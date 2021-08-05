@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PraXyz. 
+- 👀 I’m interested in you.
+- 🌱 I’m currently learning lua.
+- 💞️ I’m looking to collaborate on life with you.
+- 📫 PraXyz#4117 on Discord.
